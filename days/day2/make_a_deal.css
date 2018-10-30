@@ -1,0 +1,34 @@
+body {
+	background: #333; 
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.text_container {
+	width: 700px;
+	margin: 20px auto 50px;
+	text-align: center;
+	color: #f49542;
+}
+
+#title {
+	font-size: 50px;
+    margin-bottom: 30px;
+    color: #f49542;
+}
+
+#door_container{ 
+    text-align: center;
+}
+
+.door {
+	display: inline-block;
+	margin: 0 30px;
+}
+
+#yt_container{ 
+    text-align: center;
+}
+
+.text_container a {
+	color: #f49542;
+}
